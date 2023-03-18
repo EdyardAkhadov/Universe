@@ -1,0 +1,29 @@
+html,body{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(246, 231, 211);
+}
+
+p{
+    font-size: 500px;
+    animation-name: uni;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+@keyframes uni {
+    0%{
+        color: #f00;
+    }
+    50%{
+        color: #0f0;
+    }
+    100%{
+        color: #00f;
+    }
+}
