@@ -2,3 +2,4 @@ mars
 venus
 saturn
 jupiter
+earth
