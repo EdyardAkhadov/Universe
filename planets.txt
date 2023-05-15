@@ -3,3 +3,4 @@ venus
 saturn
 jupiter
 earth
+uranus

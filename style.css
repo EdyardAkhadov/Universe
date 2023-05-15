@@ -4,13 +4,11 @@ html,body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: yellow;
+    background-color: white;
 }
 
 p{
     font-size: 500px;
-    color: blue;
+    color: black;
     border: 5px dashed; 
 }
-
-
